@@ -1,0 +1,75 @@
+This is copy from my old timwiz.com Wordpress site.
+
+Title
+Scheduling and Organization		Scheduling and Organization
+Content
+
+
+	Removed
+		Added
+
+
+
+Unchanged: <!-- wp:paragraph -->	Unchanged: <!-- wp:paragraph -->
+
+Unchanged: <p>I have been learning about learning and one of the most important things to grasp is the concept of scheduling and making lists. In order to accomplish as many tasks as possible in a limited time-frame, just make a list (with sub-lists if necessary) and schedule these tasks in order of importance. This can be done using any calendar app or program[make list] (or the old school pen and paper!)</p>	Unchanged: <p>I have been learning about learning and one of the most important things to grasp is the concept of scheduling and making lists. In order to accomplish as many tasks as possible in a limited time-frame, just make a list (with sub-lists if necessary) and schedule these tasks in order of importance. This can be done using any calendar app or program[make list] (or the old school pen and paper!)</p>
+
+Unchanged: <!-- /wp:paragraph -->	Unchanged: <!-- /wp:paragraph -->
+
+Unchanged: <!-- wp:paragraph -->	Unchanged: <!-- wp:paragraph -->
+
+Unchanged: <p>This is my list for today:</p>	Unchanged: <p>This is my list for today:</p>
+
+Unchanged: <!-- /wp:paragraph -->	Unchanged: <!-- /wp:paragraph -->
+
+Unchanged: <!-- wp:list {"ordered":true} -->	Unchanged: <!-- wp:list {"ordered":true} -->
+
+Deleted: <ol><li>Study Excell</li><li>Study CWD</li><li>Watch Webinar Replay</li><li>Write in journal</li><li>Work on Business Plan</li><li>Practice Music</li><li>Workout</li><li>Work with Adobe CC</li><li>Organize and reply to Email</li><li>Work on websites</li></ol>
+	Added: <ol><li>Study Excell</li><li>Study CWD</li><li>Study Accounting</li><li>Write in journal</li><li>Work on Business Plan</li><li>Practice Music</li><li>Workout</li><li>Work with Adobe CC</li><li>Organize and reply to Email</li><li>Work on websites</li></ol>
+
+ 	Added: <!-- /wp:list -->
+
+ 	Added: <!-- wp:list -->
+
+ 	Added: <ul><li>Timwiz.com :<ul><li></li></ul></li><li>Timwiz.ca :<ul><li></li></ul></li><li>Timwiz.online :<ul><li></li></ul></li><li>Loonybin.ca :<ul><li></li></ul></li><li></li></ul>
+
+Unchanged: <!-- /wp:list -->	Unchanged: <!-- /wp:list -->
+=============================================================================
+Virtual and Augmented Reality
+<!-- wp:paragraph -->
+<p><img src="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/11/1477616415headsets-1024x580.jpg" width="485" height="274"></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>What is Virtual and Augmented Reality?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>-vr and ar websites</li><li>games programs</li><li>sdk's and coding</li><li>prices per product</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>3 Types of virtual reality</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Fully Immersive</li><li>Semi Immersive</li><li>Non Immersive</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>My Reviews</p>
+<!-- /wp:paragraph -->
+===================================================
+About
+<p style="text-align: center;"><em><strong>Thanks for taking the time to find out about me!</strong></em></p>
+&nbsp;
+
+I will be posting my Bio soon....
+===================================================
+Contact
+<!-- wp:paragraph -->
+<p>Use the form below to get in touch with me about anything.</p>
+<!-- /wp:paragraph -->
+
+<p>[contact-form][contact-field label="Name" type="name"  required="true" /][contact-field label="Email" type="email" required="true" /][contact-field label="Website" type="url" /][contact-field label="Message" type="textarea" /][/contact-form]</p>
+===================================================
